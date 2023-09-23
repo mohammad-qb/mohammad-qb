@@ -1,7 +1,7 @@
 # Mohammad Qebalah (QB)
 
 ## About Me
-**Hey I'm Mohammad Qbaleh(QB)**, I've been a problem-solving enthusiast since I was yay high. In my spare time, I convert concepts from idea to fullstack applications. You can often find me chatting and helping with like-minded members of various online communities. I'm a big fan of open-source projects, and I love to give back to the community whenever I can. Professionally by trade I'm a Senior Fullstack Developer for an [Aviation Company](https://www.airhubaviation.com/). However, I'm always open to new & exciting problems to solve so let’s connect at `ma3571318z@gmail.com`.
+**Hey I'm Mohammad Qbaleh(QB)**, I've been a problem-solving enthusiast since I was yay high. In my spare time, I convert concepts from idea to fullstack applications. You can often find me chatting and helping with like-minded members of various online communities. I'm a big fan of open-source projects, and I love to give back to the community whenever I can. Professionally by trade I'm a Senior Fullstack Developer for an [Aviation Company](https://www.airhubaviation.com/). However, I'm always open to new & exciting problems to solve so let’s connect at `mohammad.qb@qblab.co`.
 
 ## 📚 Languages
 * Javascript/TS (Node) (7+ years)
