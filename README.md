@@ -1,37 +1,113 @@
 # Mohammad Qebalah (QB)
 
-## About Me
-**Hey I'm Mohammad Qbaleh(QB)**, I've been a problem-solving enthusiast since I was yay high. In my spare time, I convert concepts from idea to fullstack applications. You can often find me chatting and helping with like-minded members of various online communities. I'm a big fan of open-source projects, and I love to give back to the community whenever I can. Professionally by trade I'm a Senior Fullstack Developer for an [Aviation Company](https://www.airhubaviation.com/). However, I'm always open to new & exciting problems to solve so let’s connect at `mohammad.qb@qblab.co`.
+## 👋 About Me
 
-## 📚 Languages
-* Javascript/TS (Node) (7+ years)
-* Python (3+ years)
-* Java (2+ years)
-* php (1+ years), Laravel(2+ years)
-* C# (1+ years)
+Hey, I'm **Mohammad Qebalah (QB)** — a Senior Full-Stack Engineer / Technical Lead with **9+ years of experience** building scalable digital products across **web, mobile, backend systems, and cloud infrastructure**.
 
-## 💻 What I've worked with
+I specialize in turning ideas into production-ready products, leading teams, architecting systems, and solving complex business problems through technology.
+
+Over the years, I’ve worked on high-impact platforms in **healthcare, fintech, aviation, e-commerce, analytics, and marketplaces**, delivering solutions used by thousands of users across the UAE and globally.
+
+Currently focused on:
+
+- 🚀 Building high-performance SaaS products  
+- 🧠 AI-powered applications & automation systems  
+- 📱 Modern mobile apps (React Native / Flutter)  
+- ⚙️ Scalable backend architecture & cloud systems  
+- 💼 Freelance / Consulting / Startup collaborations  
+
+I enjoy ownership, fast execution, clean architecture, and products that create real value.
+
+📩 **Let’s connect:** `mohammad.qb@qblab.co`
+
+---
+
+## 🧠 Core Strengths
+
+- Full-Stack Product Development  
+- Technical Leadership & Mentoring  
+- System Design & Scalable Architecture  
+- Startup MVP Development  
+- API Design & Integrations  
+- Performance Optimization  
+- CI/CD & DevOps Workflows  
+- AI / LLM Product Integration  
+- Problem Solving & Product Thinking  
+
+---
+
+## 🚀 Selected Experience
+
+### 🏥 Healthcare Platforms (Nafsi / Novomed)
+Built and scaled web + mobile systems serving **12,000+ active users**, including:
+
+- Booking systems  
+- Video consultations  
+- Payments  
+- Admin dashboards  
+- Doctor management systems  
+- DHA integrations  
+
+### 📈 AskEdgar (Fintech / Analytics)
+Worked on a modern financial intelligence platform focused on SEC filings, insights, search systems, and scalable cloud infrastructure.
+
+### 💎 ICONEC
+Built luxury jewelry rental platform in Dubai using web + mobile architecture.
+
+### 🥩 Harvest
+Built on-demand meat / zabiha ordering platform with real-time delivery operations.
+
+### 🧩 NFT Marketplace
+Built a marketplace supporting **10,000+ users** and millions of digital assets.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+### Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 🌍 Open To
+
+- Senior / Staff Engineer Roles  
+- Tech Lead Opportunities  
+- Startup Founding Engineer Roles  
+- Freelance Consulting  
+- Remote / UAE / Global Opportunities  
+
+---
+
+## ⚡ Philosophy
+
+> Build fast. Build properly. Build things that matter.
+
+---
