@@ -1,113 +1,65 @@
-# Mohammad Qebalah (QB)
+<a href="https://www.qebalah.dev/">
+  <img src="./assets/hero.svg" width="100%" alt="Mohammad Qebalah — Lead Software Engineer" />
+</a>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://www.qebalah.dev/"><img src="https://img.shields.io/badge/qebalah.dev-0b0b0c?style=for-the-badge&logo=googlechrome&logoColor=f4f4f5" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-qebalah-4b6a30175"><img src="https://img.shields.io/badge/LinkedIn-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=e10613" /></a>
+  <a href="https://x.com/MoahmmadAhamd"><img src="https://img.shields.io/badge/@MoahmmadAhamd-0b0b0c?style=for-the-badge&logo=x&logoColor=f4f4f5" /></a>
+  <a href="mailto:mohammad.qb@qblab.co"><img src="https://img.shields.io/badge/mohammad.qb@qblab.co-0b0b0c?style=for-the-badge&logo=gmail&logoColor=f4f4f5" /></a>
+</p>
 
-Hey, I'm **Mohammad Qebalah (QB)** — a Senior Full-Stack Engineer / Technical Lead with **9+ years of experience** building scalable digital products across **web, mobile, backend systems, and cloud infrastructure**.
+<br/>
 
-I specialize in turning ideas into production-ready products, leading teams, architecting systems, and solving complex business problems through technology.
+I'm a full-stack engineer who has led engineering teams and takes products from **idea → MVP → production → scale**. Lately that means **AI products** (agents, RAG pipelines, LLM integrations — including Sentry agents that open their own pull requests), **production mobile apps** with React Native & Expo, and **backends that hold up under real users**.
 
-Over the years, I’ve worked on high-impact platforms in **healthcare, fintech, aviation, e-commerce, analytics, and marketplaces**, delivering solutions used by thousands of users across the UAE and globally.
+<br/>
 
-Currently focused on:
+<img src="./assets/career.svg" width="100%" alt="Career as a git log" />
 
-- 🚀 Building high-performance SaaS products  
-- 🧠 AI-powered applications & automation systems  
-- 📱 Modern mobile apps (React Native / Flutter)  
-- ⚙️ Scalable backend architecture & cloud systems  
-- 💼 Freelance / Consulting / Startup collaborations  
+<br/>
 
-I enjoy ownership, fast execution, clean architecture, and products that create real value.
+## ⌁ Featured work
 
-📩 **Let’s connect:** `mohammad.qb@qblab.co`
+<table>
+  <tr>
+    <td width="50%"><a href="https://askedgar.io"><img src="./assets/card-askedgar.svg" width="100%" alt="AskEdgar" /></a></td>
+    <td width="50%"><a href="https://getzadi.com"><img src="./assets/card-zadi.svg" width="100%" alt="Zadi" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://nafsihealth.com"><img src="./assets/card-nafsi.svg" width="100%" alt="Nafsi / Novomed" /></a></td>
+    <td width="50%"><a href="https://iconec.co"><img src="./assets/card-iconec.svg" width="100%" alt="ICONEC" /></a></td>
+  </tr>
+</table>
 
----
+## ⌁ Stack
 
-## 🧠 Core Strengths
+| | |
+|---|---|
+| **Mobile & Web** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter&theme=dark" height="38" /> &nbsp; `Expo` `EAS` `NativeWind` `Gluestack` |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,mongodb,prisma,redis&theme=dark" height="38" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,cloudflare&theme=dark" height="38" /> |
+| **AI** | <img src="https://skillicons.dev/icons?i=py&theme=dark" height="38" /> &nbsp; `LangChain` `RAG` `Embeddings` `Autonomous agents` `OpenAI` `Claude` |
+| **Side quests** | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" height="38" /> &nbsp; building games with my team 🎮 |
 
-- Full-Stack Product Development  
-- Technical Leadership & Mentoring  
-- System Design & Scalable Architecture  
-- Startup MVP Development  
-- API Design & Integrations  
-- Performance Optimization  
-- CI/CD & DevOps Workflows  
-- AI / LLM Product Integration  
-- Problem Solving & Product Thinking  
+## ⌁ Activity
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammad-qb&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0b0b0c&text_color=f4f4f5&icon_color=c9c9ce&title_color=e10613&border_color=2a2a2e&border_radius=8" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mohammad-qb&background=0b0b0c&border=2a2a2e&stroke=2a2a2e&ring=e10613&fire=e10613&currStreakNum=f4f4f5&sideNums=f4f4f5&currStreakLabel=e10613&sideLabels=8e8e96&dates=8e8e96&border_radius=8" />
+</p>
 
-## 🚀 Selected Experience
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad-qb/mohammad-qb/output/snake-dark.svg" />
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/mohammad-qb/mohammad-qb/output/snake.svg" />
+  </picture>
+</p>
 
-### 🏥 Healthcare Platforms (Nafsi / Novomed)
-Built and scaled web + mobile systems serving **12,000+ active users**, including:
+## ⌁ Let's build something
 
-- Booking systems  
-- Video consultations  
-- Payments  
-- Admin dashboards  
-- Doctor management systems  
-- DHA integrations  
-
-### 📈 AskEdgar (Fintech / Analytics)
-Worked on a modern financial intelligence platform focused on SEC filings, insights, search systems, and scalable cloud infrastructure.
-
-### 💎 ICONEC
-Built luxury jewelry rental platform in Dubai using web + mobile architecture.
-
-### 🥩 Harvest
-Built on-demand meat / zabiha ordering platform with real-time delivery operations.
-
-### 🧩 NFT Marketplace
-Built a marketplace supporting **10,000+ users** and millions of digital assets.
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 🌍 Open To
-
-- Senior / Staff Engineer Roles  
-- Tech Lead Opportunities  
-- Startup Founding Engineer Roles  
-- Freelance Consulting  
-- Remote / UAE / Global Opportunities  
-
----
-
-## ⚡ Philosophy
-
-> Build fast. Build properly. Build things that matter.
-
----
+```diff
++ Open to:  Lead / Staff / Head-of-Engineering roles · founding engineer · consulting via QB Lab
++ Where:    Dubai · remote · global
++ Reach me: mohammad.qb@qblab.co
+```
